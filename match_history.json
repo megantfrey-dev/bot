@@ -1,0 +1,3551 @@
+[
+  {
+    "channel_id": 1416264496288370783,
+    "players": [
+      {
+        "id": 1119336687760330752,
+        "name": "thh",
+        "mention": "<@1119336687760330752>"
+      },
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-13 03:29:28.936060+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416265742848098334,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1119336687760330752,
+        "name": "thh",
+        "mention": "<@1119336687760330752>"
+      }
+    ],
+    "tank": "Fighter",
+    "rounds": 5,
+    "date": "2025-09-13 03:34:26.200483+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416265744798187560,
+      1416265811357601832,
+      1416265859432841256,
+      1416266143651594250,
+      1416266188492898445
+    ],
+    "votes": {
+      "1119336687760330752": "7"
+    },
+    "vote_sent": false,
+    "score_votes": {
+      "1000953569689747507": "5-2",
+      "1119336687760330752": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true,
+    "winner": 1000953569689747507,
+    "loser": 1119336687760330752
+  },
+  {
+    "channel_id": 1416592804834181231,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 732008556542427197,
+        "name": "ROMU",
+        "mention": "<@732008556542427197>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 01:14:03.682647+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416592806671159476,
+      1416592957661909114,
+      1416593375897063565,
+      1416593443764830319
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "732008556542427197": "199-100",
+      "1037463248020193372": "199-100"
+    },
+    "score": "199-100",
+    "score_approval_sent": true,
+    "winner": 1037463248020193372,
+    "loser": 732008556542427197
+  },
+  {
+    "channel_id": 1416594568757121045,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 732008556542427197,
+        "name": "ROMU",
+        "mention": "<@732008556542427197>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 5,
+    "date": "2025-09-14 01:21:04.190309+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416594569751171106,
+      1416594650915016824,
+      1416594687430627490,
+      1416594762965848125
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "732008556542427197": "100-00",
+      "1037463248020193372": "100-00"
+    },
+    "score": "100-00",
+    "score_approval_sent": true,
+    "winner": 1037463248020193372,
+    "loser": 732008556542427197
+  },
+  {
+    "channel_id": 1416596837355356262,
+    "players": [
+      {
+        "id": 732008556542427197,
+        "name": "ROMU",
+        "mention": "<@732008556542427197>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Octo Tank",
+    "rounds": 5,
+    "date": "2025-09-14 01:30:05.344344+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416596839955824640,
+      1416596903642009711,
+      1416596937787969568,
+      1416596973565251626
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1037463248020193372": "0-5",
+      "732008556542427197": "0-5"
+    },
+    "score": "0-5",
+    "score_approval_sent": true,
+    "winner": 1037463248020193372,
+    "loser": 732008556542427197
+  },
+  {
+    "channel_id": 1416599321452744856,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 732008556542427197,
+        "name": "ROMU",
+        "mention": "<@732008556542427197>"
+      }
+    ],
+    "tank": "Fighter",
+    "rounds": 5,
+    "date": "2025-09-14 01:39:57.419141+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416599325018030122,
+      1416599571093782609,
+      1416600116298780797,
+      1416600520465977376
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "854537568654065675": "3-2",
+      "732008556542427197": "3-2"
+    },
+    "score": "3-2",
+    "score_approval_sent": true,
+    "winner": 854537568654065675,
+    "loser": 732008556542427197
+  },
+  {
+    "channel_id": 1416604598390493204,
+    "players": [
+      {
+        "id": 1175597970712973334,
+        "name": "Bane",
+        "mention": "<@1175597970712973334>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Fighter",
+    "rounds": 10,
+    "date": "2025-09-14 02:00:55.573625+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416604602345979914,
+      1416604751814070445,
+      1416604817760977057,
+      1416604845158432819
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "854537568654065675": "5-5",
+      "1175597970712973334": "5-5"
+    },
+    "score": "5-5",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416608758276034562,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1293253296009646182,
+        "name": "Arctic",
+        "mention": "<@1293253296009646182>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 02:17:27.459861+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416613323729797213,
+    "players": [
+      {
+        "id": 732008556542427197,
+        "name": "ROMU",
+        "mention": "<@732008556542427197>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 02:35:36.036398+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416801279526830254,
+    "players": [
+      {
+        "id": 1175597970712973334,
+        "name": "Bane",
+        "mention": "<@1175597970712973334>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:02:27.849188+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1416801285671354449
+    ],
+    "votes": {
+      "1175597970712973334": "Overlord",
+      "1057511175769825310": "Annihilator"
+    },
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416801419754864864,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:03:01.226483+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416803073824919622,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Spawner",
+    "rounds": 7,
+    "date": "2025-09-14 15:09:35.423222+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416803079411597446,
+      1416803135862738994,
+      1416803202233532599,
+      1416803236182102278
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1037463248020193372": "4-3",
+      "1040961461603803276": "4-3"
+    },
+    "score": "4-3",
+    "score_approval_sent": true,
+    "winner": 1040961461603803276,
+    "loser": 1037463248020193372
+  },
+  {
+    "channel_id": 1416803088198533321,
+    "players": [
+      {
+        "id": 1175597970712973334,
+        "name": "Bane",
+        "mention": "<@1175597970712973334>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": "Spawner",
+    "rounds": 15,
+    "date": "2025-09-14 15:09:38.974916+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416803092753813586,
+      1416803218314493992,
+      1416803277340938380,
+      1416803319116070954
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1175597970712973334": "14-1",
+      "1057511175769825310": "14-1"
+    },
+    "score": "14-1",
+    "score_approval_sent": true,
+    "winner": 1175597970712973334,
+    "loser": 1057511175769825310
+  },
+  {
+    "channel_id": 1416803644946518157,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 15,
+    "date": "2025-09-14 15:11:51.597154+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "cancelled",
+    "messages": [
+      1416803649207795923,
+      1416803756611342478,
+      1416804252181069887,
+      1416804338839326861
+    ],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416804490870263868,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:15:13.215927+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416805422320320552,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Spawner",
+    "rounds": null,
+    "date": "2025-09-14 15:18:55.305740+00:00",
+    "results": [],
+    "current_step": "region",
+    "status": "cancelled",
+    "messages": [
+      1416805426565218456,
+      1416805463789666346
+    ],
+    "votes": {
+      "1037463248020193372": "US Central"
+    },
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416805554684428480,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Octo Tank",
+    "rounds": null,
+    "date": "2025-09-14 15:19:26.872525+00:00",
+    "results": [],
+    "current_step": "region",
+    "status": "cancelled",
+    "messages": [
+      1416805559742763099,
+      1416805590524756120
+    ],
+    "votes": {
+      "1040961461603803276": "US West"
+    },
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416805670891815064,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": null,
+    "date": "2025-09-14 15:19:54.567918+00:00",
+    "results": [],
+    "current_step": "region",
+    "status": "cancelled",
+    "messages": [
+      1416805676285689906,
+      1416805783244640380
+    ],
+    "votes": {
+      "1040961461603803276": "US West"
+    },
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416805599449972787,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 15,
+    "date": "2025-09-14 15:19:37.598003+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "cancelled",
+    "messages": [
+      1416805604743188570,
+      1416805677715816490,
+      1416805746267521178,
+      1416805796569940122
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1037463248020193372": "7-8"
+    }
+  },
+  {
+    "channel_id": 1416805838492008508,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": null,
+    "date": "2025-09-14 15:20:34.557554+00:00",
+    "results": [],
+    "current_step": "region",
+    "status": "cancelled",
+    "messages": [
+      1416805843835420763,
+      1416805910411608149
+    ],
+    "votes": {},
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416805996843503710,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Fighter",
+    "rounds": 7,
+    "date": "2025-09-14 15:21:12.407537+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416806002283778078,
+      1416806047645040751,
+      1416806099230785667,
+      1416806129475780801
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1037463248020193372": "3-4",
+      "1040961461603803276": "4-3"
+    },
+    "score": "4-3",
+    "score_approval_sent": true,
+    "winner": 1037463248020193372,
+    "loser": 1040961461603803276
+  },
+  {
+    "channel_id": 1416806304034590823,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:22:25.710318+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416806810983203007,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 7,
+    "date": "2025-09-14 15:24:26.445983+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416806815882149899,
+      1416806895985102921,
+      1416806929199530054,
+      1416806962972065988
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "score_votes": {
+      "1040961461603803276": "6-1",
+      "1037463248020193372": "6-1"
+    },
+    "score": "6-1",
+    "score_approval_sent": true,
+    "winner": 1037463248020193372,
+    "loser": 1040961461603803276
+  },
+  {
+    "channel_id": 1416807276622119060,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:26:17.463973+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1416807281764601857
+    ],
+    "votes": {},
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416807688561492031,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:27:55.787198+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416808461269733567,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:30:59.900067+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416810507297624157,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:39:07.817738+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416811458334822431,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:42:54.481630+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416812040613531718,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:45:13.388873+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416813440298647724,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 15:50:46.994206+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416821975388524668,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Itemsex",
+    "rounds": 10,
+    "date": "2025-09-14 16:24:42.186598+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416821980803502142,
+      1416822058083418315,
+      1416822081655541780,
+      1416822250358833253
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {
+      "854537568654065675": "Itemsex",
+      "1040961461603803276": "Itemsex"
+    },
+    "region": "Europe",
+    "score_votes": {
+      "1040961461603803276": "5-5",
+      "854537568654065675": "5-5"
+    },
+    "score": "5-5",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416824958578983025,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:36:33.551301+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416825648940453948,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:39:17.986010+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416826785664077914,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:43:48.977547+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416827649057230850,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:47:14.873998+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416830236192014531,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:57:31.794694+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416830617810768043,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 16:59:02.718088+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416831695398899783,
+    "players": [
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:03:19.860661+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416832190783819806,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:05:17.699463+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416832914703913081,
+    "players": [
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:08:10.348877+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416833845105529082,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:11:52.183807+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416835149349388389,
+    "players": [
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:17:03.121899+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416835986876403722,
+    "players": [
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:20:22.779980+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1416835992056365320
+    ],
+    "votes": {
+      "1057511175769825310": "Other",
+      "854537568654065675": "Other"
+    },
+    "vote_sent": true,
+    "awaiting_other_tank": true
+  },
+  {
+    "channel_id": 1416836026025902100,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1119336687760330752,
+        "name": "thh",
+        "mention": "<@1119336687760330752>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:20:32.108889+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416836546446885027,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:22:36.270780+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1416836550926405753
+    ],
+    "votes": {
+      "854537568654065675": "Other"
+    },
+    "vote_sent": true
+  },
+  {
+    "channel_id": 1416836600402284556,
+    "players": [
+      {
+        "id": 1119336687760330752,
+        "name": "thh",
+        "mention": "<@1119336687760330752>"
+      },
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:22:49.098549+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416837446263373895,
+    "players": [
+      {
+        "id": 1057511175769825310,
+        "name": "Neozor's femboy",
+        "mention": "<@1057511175769825310>"
+      },
+      {
+        "id": 1119336687760330752,
+        "name": "thh",
+        "mention": "<@1119336687760330752>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 17:26:10.912592+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416853026739716222,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 10,
+    "date": "2025-09-14 18:28:04.958984+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "cancelled",
+    "messages": [
+      1416853031387009025,
+      1416853138333237442,
+      1416853191399706624,
+      1416853225042346025
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "region": "US Central"
+  },
+  {
+    "channel_id": 1416853808574894237,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 18:31:11.220356+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416854861277954079,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 18:35:22.287970+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416855908398530603,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 18:39:31.940157+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416858351639461908,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 5,
+    "date": "2025-09-14 18:49:14.376133+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416858356810907850,
+      1416858377740353669,
+      1416858408526676060,
+      1416858411689054269,
+      1416858469721575447
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "3-2",
+      "1037463248020193372": "3-2"
+    },
+    "score": "3-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416858786450374687,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 7,
+    "date": "2025-09-14 18:50:58.163533+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416858791458111488,
+      1416858884827512873,
+      1416858907707441215,
+      1416858933083111476
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "region": "US Central",
+    "score_votes": {
+      "1040961461603803276": "5-2",
+      "854537568654065675": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416858786450374687,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 18:50:58.163533+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416860063779393566,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Spawner",
+    "rounds": 7,
+    "date": "2025-09-14 18:56:02.654265+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416860068900765776,
+      1416860112756150272,
+      1416860139159552011,
+      1416860192787796110
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1037463248020193372": "5-2",
+      "1040961461603803276": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416860063779393566,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 18:56:02.654265+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416861426047258675,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:01:27.379416+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416861924854857839,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:03:26.305508+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416862348072980620,
+    "players": [
+      {
+        "id": "1037463248020193372",
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": "1040961461603803276",
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Spawner",
+    "rounds": 7,
+    "date": "2025-09-14 19:05:07.301527+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416862353512992908,
+      1416862406394773505,
+      1416862444881707080,
+      1416862547977699393
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "Asia",
+    "score_votes": {
+      "1040961461603803276": "2-5",
+      "1037463248020193372": "2-5"
+    },
+    "score": "2-5",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416863118004588779,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:08:10.899267+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416863529553756232,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:09:49.052442+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1416863535597748316
+    ],
+    "votes": {
+      "1040961461603803276": "Other",
+      "1037463248020193372": "Other"
+    },
+    "vote_sent": true,
+    "awaiting_other_tank": true,
+    "other_tank_votes": {}
+  },
+  {
+    "channel_id": 1416864202311860385,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:12:29.305247+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416865245112045679,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:16:38.062800+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416865991316476129,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:19:35.833254+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416866405864968433,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:21:14.792326+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416866782815322202,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:22:44.611433+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416875814275911720,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 19:58:38.083429+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416876231214891051,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1040961461603803276",
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 20:00:17.606555+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416876236268896256,
+      1416876277402566718,
+      1416876282419089482,
+      1416876359774371921,
+      1416876388174004427
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "5-2",
+      "1040961461603803276": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416876744153235717,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1037463248020193372",
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 5,
+    "date": "2025-09-14 20:02:19.797124+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416876749958021230,
+      1416876827594719302,
+      1416876831902273637,
+      1416876894669901987,
+      1416876923014873158
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US West",
+    "score_votes": {
+      "854537568654065675": "3-2",
+      "1037463248020193372": "3-2"
+    },
+    "score": "3-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416877952318046278,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1037463248020193372",
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Fighter",
+    "rounds": 7,
+    "date": "2025-09-14 20:07:07.869524+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416877957581897811,
+      1416878029355090001,
+      1416878033654124684,
+      1416878396868137088,
+      1416878463981322400
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "Oceania",
+    "score_votes": {
+      "1037463248020193372": "5-2",
+      "854537568654065675": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416879345183752345,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1037463248020193372",
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 20:12:40.068586+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416879350682226740,
+      1416879412309262358,
+      1416879447801462816,
+      1416879481670471861
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "6-1",
+      "1037463248020193372": "6-1"
+    },
+    "score": "6-1",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416879879789744239,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:14:47.494819+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416880389322051775,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:16:48.861649+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416880974486306906,
+    "players": [
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:19:08.551374+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416881906946936882,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:22:50.704847+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416884905006071931,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1266274466170933249",
+        "name": "Marie",
+        "mention": "<@1266274466170933249>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 5,
+    "date": "2025-09-14 20:34:45.590130+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416884909712347209,
+      1416885028180328528,
+      1416885130718613584,
+      1416885180110733513
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "Europe",
+    "score_votes": {
+      "854537568654065675": "3-2",
+      "1266274466170933249": "3-2"
+    },
+    "score": "3-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416886904296570892,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1037463248020193372",
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 7,
+    "date": "2025-09-14 20:42:42.490392+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416886916225306704,
+      1416887145951395951,
+      1416887202839003347,
+      1416887355205222451
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "5-2",
+      "1037463248020193372": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416888234344190006,
+    "players": [
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:47:59.354730+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416888583930773535,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:49:22.722783+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416889063461359658,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1040961461603803276,
+        "name": "item_x",
+        "mention": "<@1040961461603803276>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:51:17.057756+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416889559374888970,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1037463248020193372,
+        "name": "รɦٱกץ",
+        "mention": "<@1037463248020193372>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 20:53:15.209927+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416894763722084372,
+    "players": [
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 21:13:56.043731+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416894768780284065,
+      1416894864532045936,
+      1416894925680939171,
+      1416894965799321651
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "5-2",
+      "1000953569689747507": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416896942876655648,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1155360185523642420,
+        "name": "Øverclock",
+        "mention": "<@1155360185523642420>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:22:35.671506+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416898468043296840,
+    "players": [
+      {
+        "id": 1155360185523642420,
+        "name": "Øverclock",
+        "mention": "<@1155360185523642420>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:28:39.243914+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416900585415774259,
+    "players": [
+      {
+        "id": 1155360185523642420,
+        "name": "Øverclock",
+        "mention": "<@1155360185523642420>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": null,
+    "date": "2025-09-14 21:37:04.198609+00:00",
+    "results": [],
+    "current_step": "rounds",
+    "status": "cancelled",
+    "messages": [
+      1416900591543783495,
+      1416900717284692091,
+      1416900813057687683
+    ],
+    "votes": {
+      "854537568654065675": "7"
+    },
+    "vote_sent": true,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central"
+  },
+  {
+    "channel_id": 1416902222389837855,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 21:43:34.469295+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416902227221807104,
+      1416902455463247972,
+      1416902505161560144,
+      1416902526258647192
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "5-2",
+      "854537568654065675": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416902851497824408,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 7,
+    "date": "2025-09-14 21:46:04.533057+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416902860037427340,
+      1416902888898297879,
+      1416903021299761178,
+      1416903049758380122
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "5-2",
+      "1416901966541619291": "5-2"
+    },
+    "score": "5-2",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416903389622571038,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 7,
+    "date": "2025-09-14 21:48:12.667842+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416903394609729586,
+      1416903420375339148,
+      1416903442190045195,
+      1416903443410452501,
+      1416903509197979679
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "6-1",
+      "854537568654065675": "6-1"
+    },
+    "score": "6-1",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416904196728557650,
+    "players": [
+      {
+        "id": 1416901966541619291,
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:51:25.239323+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416904542150332416,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1416901966541619291,
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:52:47.507577+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416904931993976913,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1416901966541619291,
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:54:20.455687+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416905901792559144,
+    "players": [
+      {
+        "id": 1416901966541619291,
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 21:58:11.583440+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416906545001795595,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 15,
+    "date": "2025-09-14 22:00:45.095550+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416906550039023740,
+      1416906572067766312,
+      1416906588857438208,
+      1416906603428446268
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "15-0",
+      "854537568654065675": "15-0"
+    },
+    "score": "15-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416906829828460554,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 10,
+    "date": "2025-09-14 22:01:52.880479+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416906834144530492,
+      1416906870144241685,
+      1416906886531514450,
+      1416906905372065924
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "10-0",
+      "854537568654065675": "10-0"
+    },
+    "score": "10-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416907244129226854,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 10,
+    "date": "2025-09-14 22:03:31.716571+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416907248885694578,
+      1416907277134205059,
+      1416907296050774068,
+      1416907311259062294
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "10-0",
+      "854537568654065675": "10-0"
+    },
+    "score": "10-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416907635592269874,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 15,
+    "date": "2025-09-14 22:05:04.989875+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416907641170690078,
+      1416907659927490650,
+      1416907684409770146,
+      1416907702491414538
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "0-15",
+      "854537568654065675": "0-15"
+    },
+    "score": "0-15",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416907796548685886,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 15,
+    "date": "2025-09-14 22:05:43.492379+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416907801401233529,
+      1416907828139917312,
+      1416907852332798064,
+      1416907870452191418
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "7-8",
+      "854537568654065675": "7-8"
+    },
+    "score": "7-8",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416908049582526584,
+    "players": [
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      },
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 5,
+    "date": "2025-09-14 22:06:43.679432+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416908054213038192,
+      1416908122848493600,
+      1416908137826619454,
+      1416908158927896606
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "0-5",
+      "854537568654065675": "0-5"
+    },
+    "score": "0-5",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416908243745243136,
+    "players": [
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      },
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Octo Tank",
+    "rounds": 15,
+    "date": "2025-09-14 22:07:30.009611+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416908248304582708,
+      1416908272522498078,
+      1416908301928501449,
+      1416908323747270697
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US West",
+    "score_votes": {
+      "1416901966541619291": "0-15",
+      "854537568654065675": "0-15"
+    },
+    "score": "0-15",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416909407803015209,
+    "players": [
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      },
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-14 22:12:07.601331+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416909413775573043,
+      1416909506612429000,
+      1416909571422683136,
+      1416909604004167891
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "4-3",
+      "1000953569689747507": "4-3"
+    },
+    "score": "4-3",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416910513543188611,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 5,
+    "date": "2025-09-14 22:16:31.250787+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416910518337409058,
+      1416910541158613092,
+      1416910551145250836,
+      1416910566370312343
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US West",
+    "score_votes": {
+      "1416901966541619291": "5-0",
+      "854537568654065675": "5-0"
+    },
+    "score": "5-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416910818984984676,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1416901966541619291,
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-14 22:17:43.988732+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1416912026780962967,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1416901966541619291",
+        "name": "attempt",
+        "mention": "<@1416901966541619291>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 10,
+    "date": "2025-09-14 22:22:31.931684+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416912032204194055,
+      1416912271350698034,
+      1416912297175158814,
+      1416912313696518276
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1416901966541619291": "10-0",
+      "854537568654065675": "10-0"
+    },
+    "score": "10-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416985441311260692,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": null,
+    "date": "2025-09-15 03:14:15.611295+00:00",
+    "results": [],
+    "current_step": "region",
+    "status": "cancelled",
+    "messages": [
+      1416985449930555424,
+      1416985741845860383
+    ],
+    "votes": {
+      "1000953569689747507": "US Central"
+    },
+    "vote_sent": true,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {}
+  },
+  {
+    "channel_id": 1416990191222132829,
+    "players": [
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 7,
+    "date": "2025-09-15 03:33:07.790657+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416990194024058921,
+      1416990237326049320,
+      1416990285845495949,
+      1416990349691457646
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1000953569689747507": "0-7",
+      "854537568654065675": "0-7"
+    },
+    "score": "0-7",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416991409671508061,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 10,
+    "date": "2025-09-15 03:37:58.273398+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416991412565573695,
+      1416991458900312137,
+      1416991642879004835,
+      1416991850962747453
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "854537568654065675": "0-10",
+      "1000953569689747507": "0-10"
+    },
+    "score": "0-10",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416993034939269201,
+    "players": [
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      }
+    ],
+    "tank": "Sniper",
+    "rounds": 10,
+    "date": "2025-09-15 03:44:25.839790+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416993038592381076,
+      1416993066081980426,
+      1416993096100745216,
+      1416993191080497193
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1000953569689747507": "10-0",
+      "854537568654065675": "10-0"
+    },
+    "score": "10-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416996246387822703,
+    "players": [
+      {
+        "id": "854537568654065675",
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      }
+    ],
+    "tank": "Annihilator",
+    "rounds": 15,
+    "date": "2025-09-15 03:57:11.378268+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1416996249533550714,
+      1416996275433246860,
+      1416996300917837908,
+      1416996323756081204
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "Europe",
+    "score_votes": {
+      "854537568654065675": "15-0",
+      "1000953569689747507": "15-0"
+    },
+    "score": "15-0",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1416999949983551521,
+    "players": [
+      {
+        "id": 854537568654065675,
+        "name": "Xeroc",
+        "mention": "<@854537568654065675>"
+      },
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-15 04:11:54.549520+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417000444978270311,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-15 04:13:52.441493+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417003579486769273,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-15 04:26:19.740150+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417010416910860339,
+    "players": [
+      {
+        "id": "1000953569689747507",
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": "1392663658735075411",
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": "Overlord",
+    "rounds": 5,
+    "date": "2025-09-15 04:53:29.817170+00:00",
+    "results": [],
+    "current_step": "score",
+    "status": "finished",
+    "messages": [
+      1417010420488732735,
+      1417010458283737138,
+      1417010476218449951,
+      1417010493415100487
+    ],
+    "votes": {},
+    "vote_sent": false,
+    "config_sent": false,
+    "awaiting_other_tank": false,
+    "other_tank_votes": {},
+    "region": "US Central",
+    "score_votes": {
+      "1000953569689747507": "2-3",
+      "1392663658735075411": "2-3"
+    },
+    "score": "2-3",
+    "score_approval_sent": true
+  },
+  {
+    "channel_id": 1417322405709353090,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 01:33:11.894473+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1417322409199144991
+    ],
+    "votes": {
+      "1000953569689747507": "Sniper",
+      "1392663658735075411": "Other"
+    },
+    "vote_sent": true,
+    "config_sent": false,
+    "awaiting_other_tank": true,
+    "other_tank_votes": {}
+  },
+  {
+    "channel_id": 1417323346843926568,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 01:36:56.455950+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [
+      1417323350921056348
+    ],
+    "votes": {
+      "1000953569689747507": "Other",
+      "1392663658735075411": "Other"
+    },
+    "vote_sent": true,
+    "config_sent": false,
+    "awaiting_other_tank": true,
+    "other_tank_votes": {}
+  },
+  {
+    "channel_id": 1417323613693935757,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 01:37:59.869480+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417331864041164811,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 02:10:46.930589+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417332284943634532,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 02:12:27.261659+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417333381582028862,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 02:16:48.682293+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417334305457442867,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 02:20:28.943789+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  },
+  {
+    "channel_id": 1417334305457442867,
+    "players": [
+      {
+        "id": 1000953569689747507,
+        "name": "Auriga",
+        "mention": "<@1000953569689747507>"
+      },
+      {
+        "id": 1392663658735075411,
+        "name": "Altiga",
+        "mention": "<@1392663658735075411>"
+      }
+    ],
+    "tank": null,
+    "rounds": null,
+    "date": "2025-09-16 02:20:28.943789+00:00",
+    "results": [],
+    "current_step": "tank",
+    "status": "cancelled",
+    "messages": [],
+    "votes": {},
+    "vote_sent": false
+  }
+]
